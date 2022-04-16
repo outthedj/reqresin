@@ -2,7 +2,7 @@ package xmlserial;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
-import models.RegistrationModel;
+import models.uimodels.RegistrationModel;
 import org.testng.annotations.Test;
 import testdata.GetRegistrationModel;
 

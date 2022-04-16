@@ -1,4 +1,4 @@
-package models;
+package models.uimodels;
 
 import lombok.*;
 import lombok.extern.jackson.Jacksonized;

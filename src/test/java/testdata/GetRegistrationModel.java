@@ -1,6 +1,6 @@
 package testdata;
 
-import models.RegistrationModel;
+import models.uimodels.RegistrationModel;
 import utilities.GenerateFakeMessage;
 
 public class GetRegistrationModel {
